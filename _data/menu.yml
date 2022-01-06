@@ -12,23 +12,25 @@ menu_pages:
   icon_name: fas fa-home
   category: home
 
-- title: Category 1
-  url: /category-1.html
+- title: A good memory
+  # url: /category-1.html
   show_on_home: True
-  image_url: assets/img/category-1.jpg
+  # image_url: assets/img/category-1.jpg
   icon_name: fas fa-dice
   category: category-1
   tooltip: This is category 1
-  description: Category 1 description, which is written in menu.yml file under :description property
+  description: All the meetings were full of good and memorable memories We learned a lot in this class and had a good time
 
-- title: Category 2
-  url: /category-2.html
+- title: A bad memory
+  # url: /category-2.html
   show_on_home: True
-  image_url: assets/img/category-2.jpg
+  # image_url: assets/img/category-2.jpg
   icon_name: fas fa-cogs
   category: category-2
   tooltip: This is category 2
-  description: Category 2 description, which is written in menu.yml file under :description property
+  description: Sometimes I could not answer the professor's questions correctly and this upset me But professor always gave me hope to try harder to succeed
+But Master always gave me hope and motivation to try harder, and that made me hopeful and happy
+
 
 - title: About
   url: about.html
