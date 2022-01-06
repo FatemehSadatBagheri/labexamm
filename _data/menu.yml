@@ -17,8 +17,8 @@ menu_pages:
   show_on_home: True
   # image_url: assets/img/category-1.jpg
   icon_name: fas fa-dice
-  category: category-1
-  tooltip: This is category 1
+  # category: category-1
+  # tooltip: This is category 1
   description: All the meetings were full of good and memorable memories We learned a lot in this class and had a good time
 
 - title: A bad memory
@@ -26,12 +26,19 @@ menu_pages:
   show_on_home: True
   # image_url: assets/img/category-2.jpg
   icon_name: fas fa-cogs
-  category: category-2
-  tooltip: This is category 2
+  # category: category-2
+  # tooltip: This is category 2
   description: Sometimes I could not answer the professor's questions correctly and this upset me But professor always gave me hope to try harder to succeed
 But Master always gave me hope and motivation to try harder, and that made me hopeful and happy
 
-
+- title: Our photo during the exam
+  # url: /category-2.html
+  show_on_home: True
+  image_url: assets/img/photo of class.jpeg
+  icon_name: fas fa-cogs
+  # category: category-2
+  # tooltip: This is category 2
+  
 - title: About
   url: about.html
   show_on_home: False
